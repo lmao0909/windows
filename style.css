@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.foto {
+    border-radius: 10px;
+    width: 550px;
+    height: 360px;
+}
+#inicio {
+    background: linear-gradient(#00aaff 0%, #ffffff 100%);
+}
+
+#name {
+  font-family: "Danfo", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "ELSH" 0;
+}
+
+#name1 {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+p {
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+ #sobre {
+    font-family: 'Times New Roman', Times, serif;
+
+ }
+
+ #informacoes{
+    font-family: serif;
+ }
+
+ p {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ .mynavbar {
+    position:sticky;
+    top: 0;
+    z-index: 9;
+ }
+
+ .links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+ }
+ .links:hover {
+    font-size: 25px;
+ }
+ #microsoft {
+    background: #979797;
+ }
+
+ #microsoft iframe {
+    width: 100%;
+ }
+
+ .microsoft_1 h3 {
+    display: inline;
+  }
+
+  .titulos {
+    color: black;
+    font-family: serif;
+  }
